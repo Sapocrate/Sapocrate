@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sapocrate
 - 👀 I’m interested in microcontrollers and IoT world
-- 🌱 I’m currently learning at Politecnico di Torino
+- 🌱 I’m currently studying computer engineering at Politecnico di Torino
 - 💞️ I’m looking to collaborate on IoT projects
 - 📫 How to reach me saporitipietro@ymail.com
 

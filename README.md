@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sapocrate
-- 👀 I’m interested in microcontrollers and IoT world
-- 🌱 I’m currently studying computer engineering at Politecnico di Torino
-- 💞️ I’m looking to collaborate on IoT projects
-- 📫 How to reach me saporitipietro@ymail.com
+- 👀 I’m interested in microcontrollers, control systems and robotics
+- 🌱 I’m currently studying mechatronic engineering at Politecnico di Torino
+- 💞️ I’m looking to collaborate on IoT, ML and mechatronics projects
+- 📫 How to reach me saporitipuetro@gmail.com
 
 <!---
 Sapocrate/Sapocrate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
